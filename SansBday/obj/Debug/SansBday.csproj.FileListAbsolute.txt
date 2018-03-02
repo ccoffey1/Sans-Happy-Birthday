@@ -9,3 +9,14 @@ C:\Users\Christian Coffey\Dropbox\projects\Sans Happy Birthday\SansBday\bin\Debu
 C:\Users\Christian Coffey\Dropbox\projects\Sans Happy Birthday\SansBday\bin\Debug\SansBday.pdb
 C:\Users\Christian Coffey\Dropbox\projects\Sans Happy Birthday\SansBday\obj\Debug\SansBday.exe
 C:\Users\Christian Coffey\Dropbox\projects\Sans Happy Birthday\SansBday\obj\Debug\SansBday.pdb
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\bin\Debug\SansBday.exe.config
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\bin\Debug\SansBday.exe
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\bin\Debug\SansBday.pdb
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\Interop.WMPLib.dll
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.csproj.ResolveComReference.cache
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.Form1.resources
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.Properties.Resources.resources
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.csproj.GenerateResource.Cache
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.csproj.CoreCompileInputs.cache
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.exe
+C:\Users\Christian Coffey\Dropbox\projects\Sans-Happy-Birthday\SansBday\obj\Debug\SansBday.pdb
